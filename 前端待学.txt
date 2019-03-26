@@ -1,0 +1,20 @@
+https://juejin.im/post/5c93ba526fb9a070ca103898
+缓存
+
+https://juejin.im/post/5c9826ac5188256d5328b9f6
+录音
+
+https://juejin.im/post/5c910c9f6fb9a070e25a5f56
+浏览器eventLoop和node eventLoop
+
+https://juejin.im/post/5c937bbcf265da6119043f4c
+Node+GitLab实现小程序CI系统
+
+https://juejin.im/post/5c9592ff6fb9a070f30b0730
+一文搞懂JavaScript原型链（看完绝对懂）
+
+https://juejin.im/post/5c966596e51d454d42032ce9
+从零到一，用 Electron 开发桌面效率工具
+
+https://blog.csdn.net/qq_28009065/article/details/80262260
+HTTP协议以及HTTP2.0/1.1/1.0区别
